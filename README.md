@@ -60,7 +60,7 @@ conda activate handsontutorial
 2. Clone the git repository by typing the following command in your prompt (for Windows) or terminal (for Linix and MacOS):
 
 ```
-git clone https://github.com/lckr/jupyterlab-variableInspector
+git clone https://github.com/ihenry42/jupyterlab-variableInspector.git
 ```
 
 3. Once you downloaded the repository use the following steps:
