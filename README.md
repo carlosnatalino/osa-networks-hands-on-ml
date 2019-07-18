@@ -1,4 +1,4 @@
-# Workshop: Hands-on Introduction to Data Analytics and Machine Learning in Optical Networks,
+# Workshop: Hands-on Introduction to Data Analytics and Machine Learning in Optical Networks
 
 ## Wednesday, 31 July, 12:30-14:00, Bayside Room
 
