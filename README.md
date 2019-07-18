@@ -31,7 +31,7 @@ After installing these software, you should be able to use the commands `git` an
 Once Anaconda is installed, open the Anaconda prompt (in Windows) or the terminal (in Linux or MacOS) and run the following command line:
 
 ```
-conda create --name handsontutorial numpy pandas scikit-learn matplotlib seaborn tensorflow keras jupyterlab
+conda create --name handsontutorial numpy pandas scikit-learn matplotlib seaborn tensorflow keras jupyterlab xlrd
 ```
 
 The above command is responsible for creating an environment named `handsontutorial` and installing the following packages:
