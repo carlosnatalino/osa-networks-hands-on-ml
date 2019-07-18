@@ -21,7 +21,7 @@ During this tutorial, a set of usefull tools will be introduced to the attendees
 All the software used in this tutorial is open source and free. As an attendee, you need to install the following software:
 
 * Git ([official download page](https://git-scm.com/downloads))
-* Python 3.6 or 3.7 (we recommend the Anaconda distribution with Python 3.7 available [here](https://www.anaconda.com/distribution/))
+* Python 3.6 or 3.7 (we recommend the Anaconda distribution with Python 3.7 available [here](https://www.anaconda.com/distribution/)) -- a comprehensive installation tutorial is available [here](https://problemsolvingwithpython.com/01-Orientation/01.03-Installing-Anaconda-on-Windows/)
 * NodeJS (available [here](https://nodejs.org/en/download/)) -- **optional** for those who will also install the variable inspector (see below)
 
 After installing these software, you should be able to use the commands `git` and `npm` in your prompt (in Windows) or terminal (in Linux and MacOS).
@@ -31,7 +31,7 @@ After installing these software, you should be able to use the commands `git` an
 Once Anaconda is installed, open the Anaconda prompt (in Windows) or the terminal (in Linux or MacOS) and run the following command line:
 
 ```
-conda create --name handsontutorial numpy pandas scikit-learn matplotlib tensorflow keras jupyterlab
+conda create --name handsontutorial numpy pandas scikit-learn matplotlib seaborn tensorflow keras jupyterlab
 ```
 
 The above command is responsible for creating an environment named `handsontutorial` and installing the following packages:
@@ -39,6 +39,7 @@ The above command is responsible for creating an environment named `handsontutor
 * Pandas
 * Scikit-Learn
 * Matplotlib
+* Seaborn
 * Keras
 * TensorFlow
 * NumPy
